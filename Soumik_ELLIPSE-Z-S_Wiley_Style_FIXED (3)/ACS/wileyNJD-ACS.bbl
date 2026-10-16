@@ -1,0 +1,186 @@
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\urlprefix}{}
+\providecommand{\foreignlanguage}[2]{#2}
+\providecommand{\Capitalize}[1]{\uppercase{#1}}
+\providecommand{\capitalize}[1]{\expandafter\Capitalize#1}
+\providecommand{\bibliographycite}[1]{\cite{#1}}
+\providecommand{\bbland}{and}
+\providecommand{\bblchap}{chap.}
+\providecommand{\bblchapter}{chapter}
+\providecommand{\bbletal}{et~al.}
+\providecommand{\bbleditors}{editors}
+\providecommand{\bbleds}{eds: }
+\providecommand{\bbleditor}{editor}
+\providecommand{\bbled}{ed.}
+\providecommand{\bbledition}{edition}
+\providecommand{\bbledn}{ed.}
+\providecommand{\bbleidp}{page}
+\providecommand{\bbleidpp}{pages}
+\providecommand{\bblerratum}{erratum}
+\providecommand{\bblin}{in}
+\providecommand{\bblmthesis}{Master's thesis}
+\providecommand{\bblno}{no.}
+\providecommand{\bblnumber}{number}
+\providecommand{\bblof}{of}
+\providecommand{\bblpage}{page}
+\providecommand{\bblpages}{pages}
+\providecommand{\bblp}{p}
+\providecommand{\bblphdthesis}{Ph.D. thesis}
+\providecommand{\bblpp}{pp}
+\providecommand{\bbltechrep}{}
+\providecommand{\bbltechreport}{Technical Report}
+\providecommand{\bblvolume}{volume}
+\providecommand{\bblvol}{Vol.}
+\providecommand{\bbljan}{January}
+\providecommand{\bblfeb}{February}
+\providecommand{\bblmar}{March}
+\providecommand{\bblapr}{April}
+\providecommand{\bblmay}{May}
+\providecommand{\bbljun}{June}
+\providecommand{\bbljul}{July}
+\providecommand{\bblaug}{August}
+\providecommand{\bblsep}{September}
+\providecommand{\bbloct}{October}
+\providecommand{\bblnov}{November}
+\providecommand{\bbldec}{December}
+\providecommand{\bblfirst}{First}
+\providecommand{\bblfirsto}{1st}
+\providecommand{\bblsecond}{Second}
+\providecommand{\bblsecondo}{2nd}
+\providecommand{\bblthird}{Third}
+\providecommand{\bblthirdo}{3rd}
+\providecommand{\bblfourth}{Fourth}
+\providecommand{\bblfourtho}{4th}
+\providecommand{\bblfifth}{Fifth}
+\providecommand{\bblfiftho}{5th}
+\providecommand{\bblst}{st}
+\providecommand{\bblnd}{nd}
+\providecommand{\bblrd}{rd}
+\providecommand{\bblth}{th}
+\begin{thebibliography}{10}
+
+\bibitem{khatun2026ml}
+Mst~Rokeya Khatun, Md~Saiful Islam, {\it Optik} \textbf{2026}, 172761.
+
+\bibitem{md2026smart}
+Huraiya Md~Abu, Sankar~Ganesh Ramaraj, Sk~Md~Shahadat Hossain, Kisalaya
+  Chakrabarti, Chang~Yi Kong, Hitoshi Tabata, SM~Abdur Razzak, {\it Advanced
+  Photonics Research} \textbf{2026}, {\it 7} (3), e202500240.
+
+\bibitem{ahammed2026machine}
+Md~Tabil Ahammed, Mushfiqur~Rahman Masuk, Md~Faruque Hossain, {\it Optical and
+  Quantum Electronics} \textbf{2026}, {\it 58} (8), 343.
+
+\bibitem{akter2026neuropcf}
+Sonia Akter, Hasan Abdullah, Mohammad~Asaduzzaman Khan, {\it Plasmonics}
+  \textbf{2026}, 1-25.
+
+\bibitem{rana2026ultralow}
+Jatin Rana, Rupam Srivastava, Vinit Kumar, Sarika Pal, Yogendra~Kumar
+  Prajapati, {\it IEEE Journal of Selected Topics in Quantum Electronics}
+  \textbf{2026}.
+
+\bibitem{ahmed2026simultaneous}
+Kawsar Ahmed, Ruhul Amin, Md~Mamun Ali, Francis~M Bui, Li~Chen, {\it Biomedical
+  Optics Express} \textbf{2026}, {\it 17} (3), 1524-1539.
+
+\bibitem{grina2026iot}
+Dhouha Grina, Randa Khemiri, Sameh Kaziz, {\it IEEE Sensors Journal}
+  \textbf{2026}.
+
+\bibitem{shibly2026dual}
+Imam~Hossain Shibly, Md~Asif Mahmud, Zahid Kaisar, Md~Selim Hossain, Anirban
+  Sarkar, Sadia Sultana, Nazrul Islam, {\it Optik} \textbf{2026}, 172703.
+
+\bibitem{sobur2025machine}
+Md~Tanver~Rana Sobur, Md~Mehedi Hasan, Mst~Rokeya Khatun, Md~Manik Mia, Wahidul
+  Islam, Md~Sadiq Iqbal, Muhammad~Minoar Hossain, {\it Optics \& Laser
+  Technology} \textbf{2025}, {\it 192}, 113796.
+
+\bibitem{khatun2025design}
+Mst~Rokeya Khatun, Md~Saiful Islam, {\it Plos one} \textbf{2025}, {\it 20} (9),
+  e0330944.
+
+\bibitem{mim2025advanced}
+Mithila~Akter Mim, Mst~Rokeya Khatun, Muhammad~Minoar Hossain, Wahidur Rahman,
+  {\it Optik} \textbf{2025}, {\it 333}, 172391.
+
+\bibitem{ahmed2025waterpathogen}
+Kawsar Ahmed, Md~Mamun Ali, Md~Aslam Mollah, Francis~M Bui, Li~Chen, {\it IEEE
+  Photonics Technology Letters} \textbf{2025}, {\it 38} (4), 283-286.
+
+\bibitem{yadav2025enhanced}
+Sapana Yadav, DK~Dwivedi, Pooja Lohia, Yadvendra Singh, {\it International
+  Communications in Heat and Mass Transfer} \textbf{2025}, {\it 168}, 109426.
+
+\bibitem{ahmed2025pregnancy}
+Kawsar Ahmed, Md~Shohidullah, Md~Mamun~Ali, Francis~M Bui, Li~Chen, Santosh
+  Kumar, {\it Biomedical Optics Express} \textbf{2025}, {\it 16} (11),
+  4517-4529.
+
+\bibitem{hamzaoui2025machine}
+Assia Hamzaoui, Abdelaziz Aouiche, Soraya Gouder, Houssam~Eddine Abdellatif,
+  Shan~Ali Khan, Ahmed Belaadi, {\it Journal of Fluorescence} \textbf{2025},
+  {\it 35} (11), 11409-11422.
+
+\bibitem{abdullah2026machine}
+Mohammad Abdullah-Al-Shafi, Shuvo Sen, Mashiyat Mubassera, {\it Scientific
+  reports} \textbf{2026}, {\it 16} (1), 8320.
+
+\bibitem{kaziz2024optimizing}
+Sameh Kaziz, Fraj Echouchene, Mohamed~Hichem Gazzah, {\it Scientific reports}
+  \textbf{2024}, {\it 14} (1), 7837.
+
+\bibitem{bepare2026highly}
+Mithun Bepare, Tanu~Prava Mondal, Shah~Ali Rafi, Russel~Reza Mahmud, M~Shariful
+  Islam, Bobby Barua, {\it Plasmonics} \textbf{2026}, {\it 21} (1), 871-888.
+
+\bibitem{tayef2025highly}
+Md~Jubaer~Rahman Tayef, Md~Bashir Uddin, Md~Faruk Jamil, Md~Shafin Alam, {\it
+  Sensing and Bio-Sensing Research} \textbf{2025}, 100897.
+
+\bibitem{jamil2025gold}
+Md~Faruk Jamil, Md~Bashir Uddin, Md~Jubaer~Rahman Tayef, {\it Sensing and
+  Bio-Sensing Research} \textbf{2025}, {\it 49}, 100821.
+
+\bibitem{ashrafian2025highly}
+Mahla Ashrafian, Saeed Olyaee, Mahmood Seifouri, {\it Scientific Reports}
+  \textbf{2025}, {\it 15} (1), 10168.
+
+\bibitem{zhang2025highlys}
+Qiunan Zhang, Xiangyu Liao, Yongmei Wang, Caner Cheng, Chuanyang Huang, Yangtao
+  Liu, Weijia Shao, Qingjia Zhou, Jian Tang, Junhui Hu, \bbletal{}, {\it
+  Physica Scripta} \textbf{2025}, {\it 100} (8), 085505.
+
+\bibitem{zhang2025highly}
+Qiunan Zhang, Can'er Cheng, Chuanyang Huang, Xiangyu Liao, Yongmei Wang, Jian
+  Tang, Junhui Hu, Weijia Shao, Jun Liu, {\it IEEE Sensors Journal}
+  \textbf{2025}, {\it 25} (6), 9664-9674.
+
+\bibitem{pedregosa2011scikit}
+Fabian Pedregosa, Ga{\"e}l Varoquaux, Alexandre Gramfort, Vincent Michel,
+  Bertrand Thirion, Olivier Grisel, Mathieu Blondel, Peter Prettenhofer, Ron
+  Weiss, Vincent Dubourg, Jake Vanderplas, Alexandre Passos, David Cournapeau,
+  Matthieu Brucher, Matthieu Perrot, {\'E}douard Duchesnay, {\it Journal of
+  Machine Learning Research} \textbf{2011}, {\it 12}, 2825-2830.
+
+\bibitem{rasmussen2006gaussian}
+Carl~Edward Rasmussen, Christopher K.~I. Williams, {\it Gaussian Processes for
+  Machine Learning}, MIT Press, Cambridge, MA, USA, \textbf{2006}.
+
+\bibitem{ramsay2005functional}
+James~O. Ramsay, Bernard~W. Silverman, {\it Functional Data Analysis} {\it
+  \bblsecondo{} \bbledn{}}, Springer, New York, NY, USA, \textbf{2005}.
+
+\bibitem{ramsay1998curve}
+James~O. Ramsay, Xiaochun Li, {\it Journal of the Royal Statistical Society:
+  Series B (Statistical Methodology)} \textbf{1998}, {\it 60} (2), 351-363.
+
+\bibitem{james2007curve}
+Gareth~M. James, {\it arXiv preprint arXiv:0712.1425} \textbf{2007}.
+
+\bibitem{marron2015functional}
+J.~S. Marron, James~O. Ramsay, Laura~M. Sangalli, Anuj Srivastava, {\it
+  Statistical Science} \textbf{2015}, {\it 30} (4), 468-484.
+
+\end{thebibliography}
